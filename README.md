@@ -1,12 +1,4 @@
-# 你好 👋
-
-<p align="center">
-  <img src="https://cdn.luogu.com.cn/upload/image_hosting/la0t54bt.webp" alt="个人头像" width="180" height="180" />
-</p>
-
-<p align="center">
-  <strong>张贺衍</strong>
-</p>
+# 你好 👋 我是 Zhao-Yidan1982
 
 <p align="center">
   <a href="https://github.com/Zhao-Yidan1982">GitHub</a> ·
@@ -14,7 +6,7 @@
   <a href="zhangheyan2013@outlook.com">联系我</a>
 </p>
 
-我是 **[Zhang Heyan]**，目前是一名初中生电教。
+我是 **张贺衍**，目前是一名初中生电教。
 我平时喜欢 **折腾各种软件或操作系统**，并热衷于 **使用GitHub**。
 
 ## 📊 个人概览
