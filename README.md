@@ -15,7 +15,7 @@
 - **所在城市：** 中国北京
 - **关注方向：** [STCN](https://smart-teach.cn/)和[SECTL](https://sectl.cn/)及其所属的教育相关软件如：
   - [ClassIsland](https://classisland.tech/)
-  - [SECTL](https://secrandom.sectl.cn/)
+  - [SecRandom](https://secrandom.sectl.cn/)
 - **当前正在做：** 一些没有使用价值的项目
   - [EasyLocker](https://github.com/Zhao-Yidan1982/EasyLocker)
   - [RandomName](https://github.com/Zhao-Yidan1982/RandomName)
