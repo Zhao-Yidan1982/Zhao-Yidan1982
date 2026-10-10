@@ -1,7 +1,7 @@
 # 你好 👋 我是 Zhang-Heyan2013
 
 <p align="center">
-  <a href="https://github.com/Zhao-Yidan1982">GitHub</a> ·
+  <a href="https://github.com/Zhang-Heyan2013">GitHub</a> ·
   <a href="https://zhangheyanblogs.rth1.xyz/">个人网站</a> ·
   <a href="zhangheyan2013@outlook.com">联系我</a>
 </p>
@@ -17,8 +17,8 @@
   - [ClassIsland](https://classisland.tech/)
   - [SecRandom](https://secrandom.sectl.cn/)
 - **当前正在做：** 一些没有使用价值的项目
-  - [EasyLocker](https://github.com/Zhao-Yidan1982/EasyLocker)
-  - [RandomName](https://github.com/Zhao-Yidan1982/RandomName)
+  - [EasyLocker](https://github.com/Zhang-Heyan2013/EasyLocker)
+  - [RandomName](https://github.com/Zhang-Heyan2013/RandomName)
 - **兴趣爱好：** 折腾各种软件或操作系统
 
 ## 💻 技术栈
@@ -41,16 +41,16 @@
 - **简介：** 一个简单的命令行加密解密工具，包含随机二进制文件生成工具和基于钥匙循环异或的文件加密工具。
 - **技术：** C++17、命令行界面
 - **状态：** 持续维护中
-- **链接：** [GitHub 仓库](https://github.com/Zhao-Yidan1982/EasyLocker)
+- **链接：** [GitHub 仓库](https://github.com/Zhang-Heyan2013/EasyLocker)
 
 ### RandomName
 
 - **简介：** 使用 Python 标准库编写的中文命令行随机抽取工具，可按姓名、编号、性别和权重进行抽取。
 - **技术：** Python 3.10+、标准库、命令行界面
 - **状态：** 持续维护中
-- **链接：** [GitHub 仓库](https://github.com/Zhao-Yidan1982/RandomName)
+- **链接：** [GitHub 仓库](https://github.com/Zhang-Heyan2013/RandomName)
 
 ## 📬 联系我
 
 - 邮箱：`zhangheyan2013@outlook.com`
-- GitHub：[Zhao-Yidan1982](https://github.com/Zhao-Yidan1982)
+- GitHub：[Zhang-Heyan2013](https://github.com/Zhang-Heyan2013)
